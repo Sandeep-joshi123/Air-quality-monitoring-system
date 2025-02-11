@@ -26,7 +26,7 @@ Sensor Maintenance 🔧: Sensors like the MQ135 and MQ9 can degrade over time, w
 
 Calibration Issues 🔍: Sensors may give inaccurate results due to fluctuations in temperature and humidity. Regular calibration is essential to ensure the system works reliably over time. 🧰
 
-Components Used 🛠️
+Components Used 🛠️ <br><br>
 MQ135 Gas Sensor – For detecting gases like ammonia, benzene, alcohols, and CO2. 🌬️
 MQ9 Gas Sensor – For detecting toxic gases such as CO, methane, and LPG. ⚡
 DHT11 Sensor – Measures temperature and humidity. 🌡️💧
